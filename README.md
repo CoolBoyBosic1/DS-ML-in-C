@@ -4,17 +4,17 @@ In this repository on daily basis I will implement machine learning and Data Sci
 
 1st Day)**linear_regression.cpp**
 
-  model: **linear regression**,
+    model: **linear regression**,
   
-  loss functions: **MAE, MSE, RMSE**, 
+    loss functions: **MAE, MSE, RMSE**, 
   
-  optimization function: **gradient descent**
+    optimization function: **gradient descent**
   
 
 2nd Day)**logistic_regression.cpp**
 
-  model: **logistic regression**,
+    model: **logistic regression**,
   
-  loss function: **crossentropy**,
+    loss function: **crossentropy**,
   
-  optimization funciton: **RMSprop**
+    optimization funciton: **RMSprop**
