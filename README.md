@@ -18,3 +18,12 @@ In this repository on daily basis I will implement machine learning and Data Sci
     loss function: **crossentropy**,
   
     optimization funciton: **RMSprop**
+
+
+3rd Day)**least_squares.cpp**  
+
+    model: **least squares**
+    
+    loss function: **sum of squared errors**
+    
+    optimization function: **analytical solution**
