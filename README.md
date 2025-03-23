@@ -27,3 +27,7 @@ In this repository on daily basis I will implement machine learning and Data Sci
     loss function: **sum of squared errors**
     
     optimization function: **analytical solution**
+
+4th Day)**KNearestNeighbours.cpp**
+
+    model: **KNN**
