@@ -28,6 +28,18 @@ In this repository on daily basis I will implement machine learning and Data Sci
     
     optimization function: **analytical solution**
 
+
 4th Day)**KNearestNeighbours.cpp**
 
     model: **KNN**
+
+
+5th Day)**SVM.cpp**
+
+    model: **SVM**
+
+    loss function: **hinge**
+
+    regularization: **L2**
+
+    optimization function: **gradient descent**
