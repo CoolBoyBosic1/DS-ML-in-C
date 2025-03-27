@@ -44,6 +44,16 @@ In this repository on daily basis I will implement machine learning and Data Sci
 
     optimization function: **gradient descent**
 
+
 6th Day)**Naive_Bayes.cpp**
 
     model: **NaiveBayes**
+
+    
+7th Day)**KMeans.cpp**
+
+    model: **KMeans**
+
+    loss function: **sum of squared distances**
+
+    optimization: **iterative centroid update**
