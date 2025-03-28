@@ -2,7 +2,7 @@
 
 In this repository on daily basis I will implement machine learning and Data Science algorithms fully coded in C++. 
 
-1st Day)**linear_regression.cpp**
+1st Day)**LinearRegression**
 
     model: **linear regression**,
   
@@ -11,7 +11,7 @@ In this repository on daily basis I will implement machine learning and Data Sci
     optimization function: **gradient descent**
   
 
-2nd Day)**logistic_regression.cpp**
+2nd Day)**LogisticRegression**
 
     model: **logistic regression**,
   
@@ -20,7 +20,7 @@ In this repository on daily basis I will implement machine learning and Data Sci
     optimization funciton: **RMSprop**
 
 
-3rd Day)**least_squares.cpp**  
+3rd Day)**LeastSquares**  
 
     model: **least squares**
     
@@ -29,12 +29,12 @@ In this repository on daily basis I will implement machine learning and Data Sci
     optimization function: **analytical solution**
 
 
-4th Day)**KNearestNeighbours.cpp**
+4th Day)**KNearestNeighbours**
 
     model: **KNN**
 
 
-5th Day)**SVM.cpp**
+5th Day)**SVM**
 
     model: **SVM**
 
@@ -45,12 +45,12 @@ In this repository on daily basis I will implement machine learning and Data Sci
     optimization function: **gradient descent**
 
 
-6th Day)**Naive_Bayes.cpp**
+6th Day)**NaiveBayes**
 
     model: **NaiveBayes**
 
     
-7th Day)**KMeans.cpp**
+7th Day)**KMeans**
 
     model: **KMeans**
 
@@ -59,7 +59,7 @@ In this repository on daily basis I will implement machine learning and Data Sci
     optimization: **iterative centroid update**
 
 
-8th Day)**Decision_Tree.cpp**
+8th Day)**DecisionTree**
 
     model:**decision tree**
 
