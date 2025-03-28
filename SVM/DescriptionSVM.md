@@ -7,7 +7,9 @@
 
 
 **Description**
+
   Implemented SVM for binary classification.
+  
   SVM is a model which is computed as
   
     f(x) = w * x + b  (where w is a weight x is some sample and b coeficient)
