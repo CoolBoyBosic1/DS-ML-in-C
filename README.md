@@ -57,3 +57,12 @@ In this repository on daily basis I will implement machine learning and Data Sci
     loss function: **sum of squared distances**
 
     optimization: **iterative centroid update**
+
+
+8th Day)**Decision_Tree.cpp**
+
+    model:**decision tree**
+
+    loss function:**entropy, djini**
+
+    optimization: **greedy recursive partitioning**
