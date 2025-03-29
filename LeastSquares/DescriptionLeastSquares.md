@@ -7,6 +7,7 @@
   **optimization function**: analytical solution
 
 **Description**
+
   Least Squares is a method that finds the optimal linear model by minimizing the sum of squared differences between the actual values and the predicted values.
   
   least squares is a model computed as
