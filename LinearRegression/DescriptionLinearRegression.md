@@ -1,7 +1,7 @@
 **LinearRegression**
-  **model**: linear regression,
-  **loss functions**: MAE, MSE, RMSE, 
-  **optimization function**: gradient descent
+ **model**: linear regression,
+ **loss functions**: MAE, MSE, RMSE, 
+ **optimization function**: gradient descent
 
 **Description**
 
