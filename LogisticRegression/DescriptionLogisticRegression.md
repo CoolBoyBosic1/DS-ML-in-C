@@ -1,7 +1,9 @@
 **LogisticRegression.cpp**
 
    **Model**: Logistic Regression
-   **Loss Function**: Crossentopy olss 
+   
+   **Loss Function**: Crossentopy loss 
+   
    **Optimization Function**: RMSprop
 
 
