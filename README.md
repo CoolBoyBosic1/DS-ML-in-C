@@ -66,3 +66,6 @@ In this repository on daily basis I will implement machine learning and Data Sci
     loss function:**entropy, djini**
 
     optimization: **greedy recursive partitioning**
+
+
+9th Day)**Description for algos**
