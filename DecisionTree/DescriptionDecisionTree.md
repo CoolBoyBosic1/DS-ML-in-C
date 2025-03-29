@@ -1,6 +1,9 @@
 **DecisionTree.cpp**
+
    **Model**: Decision Tree
+   
    **Loss function**: entropy, djini
+   
    **Optimization**: greedy recursive partitioning
 
 
