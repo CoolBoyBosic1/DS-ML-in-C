@@ -1,6 +1,9 @@
 **LeastSquares**
+
   **model**: least squares
+  
   **loss function**: sum of squared errors
+  
   **optimization function**: analytical solution
 
 **Description**
