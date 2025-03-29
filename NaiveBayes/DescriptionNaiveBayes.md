@@ -1,5 +1,5 @@
 **NaiveBayes.cpp**  
-- **model**: NaiveBayes
+  **model**: NaiveBayes
 
 **Description**
 
