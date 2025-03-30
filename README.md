@@ -69,3 +69,14 @@ In this repository on daily basis I will implement machine learning and Data Sci
 
 
 9th Day)**Description for algos**
+
+
+10th Day)**RandomForest**
+
+    model: **random forest**
+    
+    components: **decision trees ensemble**
+    
+    bootstrap: **sampling with replacement**
+    
+    voting: **majority vote**
