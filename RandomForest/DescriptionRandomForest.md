@@ -4,6 +4,8 @@
    **Bootstrap**: Sampling with replacement  
    **Voting**: Majority Vote  
 
+
+
 **Description**
 
 Implemented Random Forest by combining multiple decision trees. 
