@@ -80,3 +80,12 @@ In this repository on daily basis I will implement machine learning and Data Sci
     bootstrap: **sampling with replacement**
     
     voting: **majority vote**
+
+
+11th Day)**XGBoost**
+
+    model: XGBoost
+
+    loss function: rmse
+
+    optimization function: gradient boosting 
