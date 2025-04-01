@@ -17,12 +17,14 @@ Implemented MLP for multi-layer neural network processing.
 The model is computed layer-wise:
 
   **Linear Transformation**
-    z = w * x + b
-    (where w - weight vector/matrix, x - input, and b - bias coef)
+    
+    z = w * x + b (where w - weight vector/matrix, x - input, and b - bias coef)
 
   **Activation Function**
-    a = f(z)
-    The activation function f can be:
+    
+    a = f(z)
+    
+    The activation function f can be:
       
       ReLU:  f(z) = max(0, z)
       Sigmoid: f(z) = 1 / (1 + exp(–z))
