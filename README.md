@@ -89,3 +89,14 @@ In this repository on daily basis I will implement machine learning and Data Sci
     loss function: rmse
 
     optimization function: gradient boosting 
+
+
+12th Day)**MultilayerPerceptron**
+    
+    model: **MLP**
+    
+    loss function: MSE, MAE, RMSE
+    
+    activation functions: ReLU, Sigmoid, Tanh
+    
+    optimization function: Backpropagation via Gradient Descent
