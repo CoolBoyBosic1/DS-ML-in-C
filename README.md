@@ -100,3 +100,8 @@ In this repository on daily basis I will implement machine learning and Data Sci
     activation functions: ReLU, Sigmoid, Tanh
     
     optimization function: Backpropagation via Gradient Descent
+
+
+13th Day)**PrincipalComponentAnalysis**
+
+    model: **PCA**
